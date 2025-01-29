@@ -2,12 +2,11 @@
 """
 Created on Wed Jan 29 10:28:28 2025
 
-@author: jessi
+@author: Azroth Doombringer
 """
 
 
 import streamlit as st
-import numpy as np
 import pandas as pd
 
 # Title of the app
@@ -17,7 +16,7 @@ st.title("Researcher Profile Page")
 name = "Azroth Doombringer"
 field = "Philosophy"
 institution = "The Origin Universe"
-occupation = "Primodial Shadow Monarch"
+occupation = "Primordial Shadow Monarch"
 
 # Display basic profile information
 st.header("Researcher Overview")
